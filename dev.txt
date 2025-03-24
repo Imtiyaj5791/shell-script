@@ -1,9 +1,0 @@
- This is the file from dev branch
-
- This is concept of pull request to understand
-
- this is fine comment
-
- this is bug
-
- this is also fine
