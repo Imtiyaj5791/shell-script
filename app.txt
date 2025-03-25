@@ -1,6 +1,0 @@
-This is 1st code
-This is second code
-this is 3 rd code
-this is 4th code
-this is 5th code
-this is 6th code
