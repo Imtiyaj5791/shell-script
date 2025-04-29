@@ -1,0 +1,81 @@
+I have total 9 yrs experience out of which 2 years was on a project in which
+i was working some devops related tools and technology
+e-commerce plateform but some confidential i can't disclose the name
+they had to scale their operations in india so they need cloud service, i workied on terraform, 
+k8s, aws cloud, docker, private repository, jenkins ci/cd and that got me interested in devops 
+hence i am looking for more challenges
+
+"Good morning/afternoon, my name is Imtiyaj Ansari, and I bring 9 years of IT experience with 4 years spent working in a 
+Network Operations Center (NOC) environment. In my NOC role, I developed strong skills in monitoring, incident management, 
+and troubleshooting complex issues across critical production systems, ensuring uptime and quick resolution of service disruptions."
+
+"Over the last couple of years, I’ve focused on expanding my knowledge in cloud technologies, specifically AWS. 
+I’ve gained hands-on experience with core AWS services such as EC2, S3, IAM, CloudWatch, VPC, and Route 53, 
+and I’ve successfully worked on several personal projects to simulate production-like environments. 
+I’ve also implemented automated backups, disaster recovery strategies, and monitoring solutions in AWS."
+
+
+"One of the personal projects I worked on to strengthen my AWS expertise was setting up a high-availability, 
+production-style web application environment on AWS, with built-in monitoring, automation, and disaster recovery capabilities."
+
+🔧 Project Overview:
+Architecture:
+
+Deployed a basic web application on EC2 instances in two Availability Zones using an Auto Scaling Group and an Application Load 
+Balancer (ALB).
+
+Configured Route 53 with health checks for DNS failover.
+
+Stored logs and app data in Amazon S3.
+
+Security & Access:
+
+Used IAM roles and policies for least-privileged access.
+
+Configured Security Groups and NACLs for instance-level protection.
+
+📈 Monitoring & Support:
+Enabled CloudWatch Alarms for CPU, memory, and disk thresholds.
+
+Used CloudWatch Logs for system log collection and analysis.
+
+Created SNS notifications to receive alerts in case of threshold breaches or instance health check failures.
+
+Practiced real-time troubleshooting using:
+
+CloudTrail for activity tracking,
+
+VPC flow logs to inspect traffic issues, and
+
+EC2 system logs for OS-level insights.
+
+💾 Backup & Disaster Recovery:
+Automated Backups:
+
+Enabled daily snapshots of EBS volumes using AWS Backup.
+
+Configured lifecycle policies to automatically delete old backups after 30 days to manage costs.
+
+S3 Backup Strategy:
+
+Implemented versioning and S3 lifecycle policies to move older data to S3 Glacier for long-term, cost-effective storage.
+
+Ensured cross-region replication (CRR) of S3 buckets to another AWS region for geo-redundancy.
+
+Database Backup:
+
+Simulated using Amazon RDS with automated backups and multi-AZ failover for the backend.
+
+Performed manual snapshots before key changes and tested point-in-time recovery.
+
+Disaster Recovery Testing:
+
+Conducted failover simulation by intentionally stopping instances and verifying:
+
+Auto Scaling recovery,
+
+DNS failover through Route 53,
+
+Data accessibility from S3 in the replicated region.
+
+
